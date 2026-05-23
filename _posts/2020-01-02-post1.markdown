@@ -1,13 +1,13 @@
 ---
 layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
-category: sample
+title: "Catatan Awal"
+date: 2026-05-23 00:00:00 +0700
+categories: personal
+permalink: /personal/catatan-awal/
 ---
-# post-sample
-> Hello!
 
-This is code
-```ruby
-print 'hello world'
-```
+Ini adalah catatan pembuka untuk notebook ini.
+
+Tujuannya sederhana: menyediakan tempat yang rapi untuk menulis hal-hal yang sedang dipikirkan, dipelajari, atau ingin disimpan sebagai arsip pribadi. Tidak semua tulisan harus selesai sebagai esai panjang; catatan pendek pun tetap berguna jika mudah ditemukan kembali.
+
+Ke depan, kategori `personal` akan dipakai untuk refleksi, catatan ringan, dan hal-hal non-teknis yang masih layak diarsipkan.

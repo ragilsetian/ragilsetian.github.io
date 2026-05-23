@@ -4,30 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## Tentang
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+Ini adalah notebook pribadi Ragilsetian untuk menyimpan tulisan sederhana: catatan riset, rangkuman bacaan, eksperimen kecil, dan hal-hal personal yang layak diarsipkan.
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+Tulisan di sini tidak selalu berupa artikel panjang. Sebagian bisa berupa catatan singkat, ide yang sedang diproses, atau dokumentasi kecil agar tidak hilang dari ingatan.
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+## Kategori
+
+- `research`: catatan riset, paper, eksperimen, dan pembelajaran teknis.
+- `personal`: catatan personal, refleksi, dan arsip ringan.
