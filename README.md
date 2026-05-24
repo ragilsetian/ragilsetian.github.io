@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About
 
-I'm Ragil Setianjaya, a Cloud Engineer, System Engineer, and DevOps Engineer with experience across cloud infrastructure, Linux system administration, containers, CI/CD, Kubernetes, OpenStack, and Ceph storage.
+I'm Ragil Setianjaya, a DevOps Engineer with experience across cloud infrastructure, Linux system administration, containers, CI/CD, Kubernetes, OpenStack, and Ceph storage.
 
 My current focus is DevOps practices and cloud infrastructure: building stable environments, automating deployment workflows, improving reliability, and understanding how systems work from the server level up to the platform layer.
 
