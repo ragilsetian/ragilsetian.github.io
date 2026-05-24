@@ -4,13 +4,49 @@ title: About
 permalink: /about/
 ---
 
-## Tentang
+## About
 
-Ini adalah notebook pribadi Ragilsetian untuk menyimpan tulisan sederhana: catatan riset, rangkuman bacaan, eksperimen kecil, dan hal-hal personal yang layak diarsipkan.
+I'm Ragil Setianjaya, a Cloud Engineer, System Engineer, and DevOps Engineer with experience across cloud infrastructure, Linux system administration, containers, CI/CD, Kubernetes, OpenStack, and Ceph storage.
 
-Tulisan di sini tidak selalu berupa artikel panjang. Sebagian bisa berupa catatan singkat, ide yang sedang diproses, atau dokumentasi kecil agar tidak hilang dari ingatan.
+My current focus is DevOps practices and cloud infrastructure: building stable environments, automating deployment workflows, improving reliability, and understanding how systems work from the server level up to the platform layer.
 
-## Kategori
+I use this notebook to document research notes, technical learning, small experiments, and reflections from things I encounter while working and learning.
 
-- `research`: catatan riset, paper, eksperimen, dan pembelajaran teknis.
-- `personal`: catatan personal, refleksi, dan arsip ringan.
+## Technical Focus
+
+Areas I often explore include:
+
+- Linux system administration;
+- DevOps culture and CI/CD;
+- Docker and containerization;
+- Kubernetes administration;
+- OpenStack and cloud infrastructure;
+- Ceph storage;
+- KVM virtualization;
+- logging, monitoring, and infrastructure troubleshooting;
+- Google Cloud Platform.
+
+## Experience Snapshot
+
+I have worked across several technical and operational roles, from network engineering and cloud engineering to service operations and DevOps engineering.
+
+Some relevant experience includes:
+
+- managing Linux systems and Google Cloud Platform environments;
+- building and maintaining CI/CD workflows with GitLab Runner;
+- containerizing applications with Docker;
+- deploying and administering OpenStack environments;
+- integrating OpenStack with Ceph cluster storage;
+- deploying Kubernetes clusters and integrating them with Ceph;
+- provisioning virtual machines with Terraform;
+- integrating Docker/Kubernetes workflows with Jenkins;
+- building logging and monitoring for infrastructure.
+
+## Note Categories
+
+- `research`: research notes, technical experiments, papers, and engineering learnings.
+- `personal`: personal notes, reflections, and lightweight archives.
+
+## Profile
+
+- [LinkedIn](https://www.linkedin.com/in/ragilsetian/)
